@@ -1,0 +1,15 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "Demo workshop in emisha",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Swati prajwoleeka",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
